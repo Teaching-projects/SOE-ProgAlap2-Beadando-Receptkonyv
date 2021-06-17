@@ -9,4 +9,9 @@ A „Receptkezelo“ gomb megnyomása után láthatóvá válnak az eddig megado
 ## Exit: 
 Kilépés a grafikus felületből. 
 ## Plot
-A diagram.py elindítása után láthatóvá válik egy diagram, amely azt ábrázolja, hogy melyik étel, mennyi idő alatt készül el, percben megadva.
+A „diagram.py“ elindítása után láthatóvá válik egy diagram, amely azt ábrázolja, hogy melyik étel, mennyi idő alatt készül el, percben megadva. A „diagram.png“ az elkésztett oszlopdiagram képe.
+
+A „Kepek“ben találhatóak az ételek képei, a „Recepek“ben pedig az eddigi receptek, valamint ide lesznek elmentve az új receptek is. 
+A „hozzavalok_db.json“ – ben találhatóak az eddigi hozzávalók a mértékegységeikkel.
+A „mertekegysegek_db.json“ – ben találhatóak a mennyiség, a súly és a térfogat mértékegységei.
+A „Naptar.py“, valamint a „Receptkezelo.py“ készítik elő a naptár, valamint a receptkezelő felületet.
